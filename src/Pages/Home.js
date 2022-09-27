@@ -9,7 +9,7 @@ function Home(){
     }
 
     return (
-        <div className="Home">
+        <div className="App">
             <header className="App-header">
                 <Header title="Parâmetro do cabeçalho"/>
                 <img src={logo} className="App-logo" alt="logo" />
